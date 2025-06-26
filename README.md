@@ -28,3 +28,5 @@ cnn_isl/
 ├── requirements.txt
 └── config.py
 
+
+Dataset : https://drive.google.com/drive/folders/1BkZLQhCF5chfq_jkEmQy9KDv8NedG3Fz?usp=sharing
