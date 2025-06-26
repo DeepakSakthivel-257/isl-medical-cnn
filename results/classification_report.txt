@@ -1,0 +1,17 @@
+ISL Sign Recognition - Classification Report
+==================================================
+Generated on: 2025-06-18 15:02:26
+
+              precision    recall  f1-score   support
+
+        cold     0.6642    0.9462    0.7805       186
+       cough     0.8037    0.9167    0.8564       192
+       fever     0.9643    0.7031    0.8133       192
+   head pain     0.9600    0.9091    0.9339       132
+      normal     0.8250    0.9778    0.8949       135
+        pain     0.9695    0.9549    0.9621       133
+      sneeze     0.9200    0.5897    0.7188       195
+
+    accuracy                         0.8421      1165
+   macro avg     0.8724    0.8568    0.8514      1165
+weighted avg     0.8664    0.8421    0.8394      1165

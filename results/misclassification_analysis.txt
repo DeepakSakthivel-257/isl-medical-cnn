@@ -1,0 +1,30 @@
+ISL Sign Recognition - Misclassification Analysis
+=======================================================
+Generated on: 2025-06-18 15:02:26
+
+Total misclassifications: 184
+Misclassification rate: 0.1579
+
+Top Misclassifications (High Confidence Errors):
+--------------------------------------------------
+1. Sample 96: True: head pain, Predicted: normal, Confidence: 0.9793
+2. Sample 109: True: sneeze, Predicted: cold, Confidence: 0.9709
+3. Sample 507: True: fever, Predicted: cold, Confidence: 0.9690
+4. Sample 455: True: sneeze, Predicted: cold, Confidence: 0.9667
+5. Sample 179: True: sneeze, Predicted: cold, Confidence: 0.9647
+6. Sample 1022: True: sneeze, Predicted: cold, Confidence: 0.9616
+7. Sample 777: True: sneeze, Predicted: cough, Confidence: 0.9613
+8. Sample 885: True: sneeze, Predicted: cold, Confidence: 0.9591
+9. Sample 556: True: head pain, Predicted: normal, Confidence: 0.9547
+10. Sample 502: True: pain, Predicted: normal, Confidence: 0.9341
+11. Sample 409: True: fever, Predicted: normal, Confidence: 0.9266
+12. Sample 619: True: sneeze, Predicted: cold, Confidence: 0.9106
+13. Sample 308: True: sneeze, Predicted: cold, Confidence: 0.9038
+14. Sample 787: True: sneeze, Predicted: cold, Confidence: 0.9002
+15. Sample 452: True: sneeze, Predicted: cold, Confidence: 0.8951
+16. Sample 668: True: sneeze, Predicted: cold, Confidence: 0.8910
+17. Sample 225: True: sneeze, Predicted: cold, Confidence: 0.8899
+18. Sample 261: True: sneeze, Predicted: cold, Confidence: 0.8894
+19. Sample 505: True: sneeze, Predicted: cold, Confidence: 0.8857
+20. Sample 59: True: sneeze, Predicted: cold, Confidence: 0.8834
+
